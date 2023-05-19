@@ -1,0 +1,286 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Metadata/1.0.0": {
+        "dependencies": {
+          "log4net": "2.0.14.0",
+          "Microsoft.AspNetCore.Authentication.Abstractions": "2.2.0.0",
+          "Microsoft.AspNetCore.Authentication.Core": "2.2.0.0",
+          "Microsoft.AspNetCore.Authorization": "2.2.0.0",
+          "Microsoft.AspNetCore.Authorization.Policy": "2.2.0.0",
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0.0",
+          "Microsoft.AspNetCore.Hosting.Server.Abstractions": "2.2.0.0",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0.0",
+          "Microsoft.AspNetCore.Http.Extensions": "2.2.0.0",
+          "Microsoft.AspNetCore.Http.Features": "2.2.0.0",
+          "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0.0",
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.0.0",
+          "Newtonsoft.Json": "11.0.0.0",
+          "RestSharp": "106.13.0.0"
+        },
+        "runtime": {
+          "Metadata.dll": {}
+        }
+      },
+      "log4net/2.0.14.0": {
+        "runtime": {
+          "log4net.dll": {
+            "assemblyVersion": "2.0.14.0",
+            "fileVersion": "2.0.14.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Authentication.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Core/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Authentication.Core.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authorization/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Authorization.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authorization.Policy/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Authorization.Policy.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Hosting.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Hosting.Server.Abstractions/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Hosting.Server.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Abstractions/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Extensions/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Http.Extensions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Http.Features.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.Abstractions/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Mvc.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.Core/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Mvc.Core.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.21818"
+          }
+        }
+      },
+      "RestSharp/106.13.0.0": {
+        "runtime": {
+          "RestSharp.dll": {
+            "assemblyVersion": "106.13.0.0",
+            "fileVersion": "106.13.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Routing.Abstractions/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Routing.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Routing/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Routing.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Http.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.WebUtilities/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.WebUtilities.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.ResponseCaching.Abstractions/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.ResponseCaching.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metadata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "log4net/2.0.14.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Authentication.Abstractions/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Authentication.Core/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Authorization/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Authorization.Policy/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Hosting.Server.Abstractions/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Http.Abstractions/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Http.Extensions/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Http.Features/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Mvc.Abstractions/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Mvc.Core/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestSharp/106.13.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Routing.Abstractions/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Routing/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Http/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.WebUtilities/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.ResponseCaching.Abstractions/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

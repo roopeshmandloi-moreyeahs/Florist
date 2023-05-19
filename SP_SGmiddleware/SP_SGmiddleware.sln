@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SP_SGmiddleware", "SP_SGmiddleware.csproj", "{11C9568A-4BC7-4552-8E8A-72BBB24BF88B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metadata", "..\Metadata\Metadata.csproj", "{C2833931-0801-48FA-855C-77BEB9D786EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C9568A-4BC7-4552-8E8A-72BBB24BF88B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{11C9568A-4BC7-4552-8E8A-72BBB24BF88B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{11C9568A-4BC7-4552-8E8A-72BBB24BF88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C9568A-4BC7-4552-8E8A-72BBB24BF88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2833931-0801-48FA-855C-77BEB9D786EA}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C2833931-0801-48FA-855C-77BEB9D786EA}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C2833931-0801-48FA-855C-77BEB9D786EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2833931-0801-48FA-855C-77BEB9D786EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C90A8B-44A3-436A-8E7A-C0195E678BF0}
+	EndGlobalSection
+EndGlobal
